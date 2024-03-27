@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I have been in the backend developer role for 5 years. Worked with hyperlocal ecommerce company and witnessed the exponential scale in increase of orders per day during that journey. Tech stacks : a) Golang b) Java c) Spring Boot d) Kafka e) AWS f) Redis g) Docker h) Kubernetes
+I have been in the backend developer role for 5 years. Worked with hyperlocal ecommerce company and witnessed the exponential scale in increase of orders per day during that journey. 
 
 *   🌍  I'm based in Bengaluru , India
 *   ✉️  You can contact me at [erpankr56070@gmail.com](mailto:erpankr56070@gmail.com)
